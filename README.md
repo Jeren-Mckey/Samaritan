@@ -11,5 +11,5 @@ the filename itself.
 
 ## Authors
 
-* **Jeren Mckey** - *Initial work* - [Shaolin-Fantastic](https://github.com/Shaolin-Fantastic)
+* **Jeren Mckey** - *Developer* - [Github](https://github.com/Jeren-Mckey)
 
